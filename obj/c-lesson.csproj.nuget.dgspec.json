@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "/home/dylan/Desktop/Werk/Csharp/c-lesson/c#.csproj": {}
+    "/home/dylan/Desktop/Werk/Csharp/c-lesson/c-lesson.csproj": {}
   },
   "projects": {
-    "/home/dylan/Desktop/Werk/Csharp/c-lesson/c#.csproj": {
+    "/home/dylan/Desktop/Werk/Csharp/c-lesson/c-lesson.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/dylan/Desktop/Werk/Csharp/c-lesson/c#.csproj",
-        "projectName": "c#",
-        "projectPath": "/home/dylan/Desktop/Werk/Csharp/c-lesson/c#.csproj",
+        "projectUniqueName": "/home/dylan/Desktop/Werk/Csharp/c-lesson/c-lesson.csproj",
+        "projectName": "c-lesson",
+        "projectPath": "/home/dylan/Desktop/Werk/Csharp/c-lesson/c-lesson.csproj",
         "packagesPath": "/home/dylan/.nuget/packages/",
         "outputPath": "/home/dylan/Desktop/Werk/Csharp/c-lesson/obj/",
         "projectStyle": "PackageReference",
@@ -17,14 +17,14 @@
           "/home/dylan/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "net5.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
+          "net5.0": {
+            "targetAlias": "net5.0",
             "projectReferences": {}
           }
         },
@@ -35,8 +35,8 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
+        "net5.0": {
+          "targetAlias": "net5.0",
           "imports": [
             "net461",
             "net462",
@@ -47,20 +47,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[3.1.10, 3.1.10]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.linux-x64",
-              "version": "[3.1.11, 3.1.11]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[3.1.0, 3.1.0]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"

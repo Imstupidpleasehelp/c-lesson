@@ -1,0 +1,16 @@
+/home/dylan/Desktop/Werk/Csharp/c-lesson/bin/Debug/net5.0/c-lesson
+/home/dylan/Desktop/Werk/Csharp/c-lesson/bin/Debug/net5.0/c-lesson.deps.json
+/home/dylan/Desktop/Werk/Csharp/c-lesson/bin/Debug/net5.0/c-lesson.runtimeconfig.json
+/home/dylan/Desktop/Werk/Csharp/c-lesson/bin/Debug/net5.0/c-lesson.runtimeconfig.dev.json
+/home/dylan/Desktop/Werk/Csharp/c-lesson/bin/Debug/net5.0/c-lesson.dll
+/home/dylan/Desktop/Werk/Csharp/c-lesson/bin/Debug/net5.0/ref/c-lesson.dll
+/home/dylan/Desktop/Werk/Csharp/c-lesson/bin/Debug/net5.0/c-lesson.pdb
+/home/dylan/Desktop/Werk/Csharp/c-lesson/obj/Debug/net5.0/c-lesson.csprojAssemblyReference.cache
+/home/dylan/Desktop/Werk/Csharp/c-lesson/obj/Debug/net5.0/c-lesson.GeneratedMSBuildEditorConfig.editorconfig
+/home/dylan/Desktop/Werk/Csharp/c-lesson/obj/Debug/net5.0/c-lesson.AssemblyInfoInputs.cache
+/home/dylan/Desktop/Werk/Csharp/c-lesson/obj/Debug/net5.0/c-lesson.AssemblyInfo.cs
+/home/dylan/Desktop/Werk/Csharp/c-lesson/obj/Debug/net5.0/c-lesson.csproj.CoreCompileInputs.cache
+/home/dylan/Desktop/Werk/Csharp/c-lesson/obj/Debug/net5.0/c-lesson.dll
+/home/dylan/Desktop/Werk/Csharp/c-lesson/obj/Debug/net5.0/ref/c-lesson.dll
+/home/dylan/Desktop/Werk/Csharp/c-lesson/obj/Debug/net5.0/c-lesson.pdb
+/home/dylan/Desktop/Werk/Csharp/c-lesson/obj/Debug/net5.0/c-lesson.genruntimeconfig.cache

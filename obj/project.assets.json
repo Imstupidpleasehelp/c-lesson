@@ -1,35 +1,36 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    "net5.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\notdy\\.nuget\\packages\\": {}
+    "/home/dylan/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\notdy\\Desktop\\work\\c#\\c#.csproj",
-      "projectName": "c#",
-      "projectPath": "C:\\Users\\notdy\\Desktop\\work\\c#\\c#.csproj",
-      "packagesPath": "C:\\Users\\notdy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\notdy\\Desktop\\work\\c#\\obj\\",
+      "projectUniqueName": "/home/dylan/Desktop/Werk/Csharp/c-lesson/c-lesson.csproj",
+      "projectName": "c-lesson",
+      "projectPath": "/home/dylan/Desktop/Werk/Csharp/c-lesson/c-lesson.csproj",
+      "packagesPath": "/home/dylan/.nuget/packages/",
+      "outputPath": "/home/dylan/Desktop/Werk/Csharp/c-lesson/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\notdy\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/dylan/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
-        "netcoreapp3.1"
+        "net5.0"
       ],
       "sources": {
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "netcoreapp3.1": {
+        "net5.0": {
+          "targetAlias": "net5.0",
           "projectReferences": {}
         }
       },
@@ -40,7 +41,8 @@
       }
     },
     "frameworks": {
-      "netcoreapp3.1": {
+      "net5.0": {
+        "targetAlias": "net5.0",
         "imports": [
           "net461",
           "net462",
@@ -56,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/107/sdk/5.0.102/RuntimeIdentifierGraph.json"
       }
     }
   }
