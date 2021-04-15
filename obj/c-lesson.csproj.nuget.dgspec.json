@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/dylan/Desktop/Werk/Csharp/c-lesson/c-lesson.csproj": {}
+    "C:\\Users\\porkh\\Desktop\\WERK\\personal\\c-lesson\\c-lesson.csproj": {}
   },
   "projects": {
-    "/home/dylan/Desktop/Werk/Csharp/c-lesson/c-lesson.csproj": {
+    "C:\\Users\\porkh\\Desktop\\WERK\\personal\\c-lesson\\c-lesson.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/dylan/Desktop/Werk/Csharp/c-lesson/c-lesson.csproj",
+        "projectUniqueName": "C:\\Users\\porkh\\Desktop\\WERK\\personal\\c-lesson\\c-lesson.csproj",
         "projectName": "c-lesson",
-        "projectPath": "/home/dylan/Desktop/Werk/Csharp/c-lesson/c-lesson.csproj",
-        "packagesPath": "/home/dylan/.nuget/packages/",
-        "outputPath": "/home/dylan/Desktop/Werk/Csharp/c-lesson/obj/",
+        "projectPath": "C:\\Users\\porkh\\Desktop\\WERK\\personal\\c-lesson\\c-lesson.csproj",
+        "packagesPath": "C:\\Users\\porkh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\porkh\\Desktop\\WERK\\personal\\c-lesson\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/dylan/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\porkh\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/107/sdk/5.0.102/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
