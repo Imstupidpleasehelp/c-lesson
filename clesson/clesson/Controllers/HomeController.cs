@@ -6,7 +6,7 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
-
+// controller gives models to the views
 namespace clesson.Controllers
 {
     public class HomeController : Controller
@@ -17,7 +17,7 @@ namespace clesson.Controllers
         {
             _logger = logger;
         }
-
+        // set the routes here 
         public IActionResult Index()
         {
             return View();
