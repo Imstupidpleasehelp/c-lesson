@@ -162,3 +162,8 @@ C:\Users\porkh\Desktop\WERK\personal\c-lesson\clesson\clesson\bin\Debug\netcorea
 C:\Users\porkh\Desktop\WERK\personal\c-lesson\clesson\clesson\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\porkh\Desktop\WERK\personal\c-lesson\clesson\clesson\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\porkh\Desktop\WERK\personal\c-lesson\clesson\clesson\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\porkh\Desktop\WERK\personal\c-lesson\clesson\clesson\obj\Debug\netcoreapp3.1\Razor\Views\jokes\Create.cshtml.g.cs
+C:\Users\porkh\Desktop\WERK\personal\c-lesson\clesson\clesson\obj\Debug\netcoreapp3.1\Razor\Views\jokes\Delete.cshtml.g.cs
+C:\Users\porkh\Desktop\WERK\personal\c-lesson\clesson\clesson\obj\Debug\netcoreapp3.1\Razor\Views\jokes\Details.cshtml.g.cs
+C:\Users\porkh\Desktop\WERK\personal\c-lesson\clesson\clesson\obj\Debug\netcoreapp3.1\Razor\Views\jokes\Edit.cshtml.g.cs
+C:\Users\porkh\Desktop\WERK\personal\c-lesson\clesson\clesson\obj\Debug\netcoreapp3.1\Razor\Views\jokes\Index.cshtml.g.cs
