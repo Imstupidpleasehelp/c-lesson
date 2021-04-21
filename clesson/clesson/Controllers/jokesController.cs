@@ -29,6 +29,11 @@ namespace clesson.Controllers
         {
             return View("showSearchForm");
         }
+        // search results
+        public async Task<IActionResult> showSearchResults(String searchPhrase)
+        {
+            return View("Index", await _context.joke.Where( j => j.JokeSet.Contains(searchPhrase) ).ToListAsync());
+        }
         // GET: jokes/Details/5
         public async Task<IActionResult> Details(int? id)
         {
