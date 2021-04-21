@@ -24,7 +24,11 @@ namespace clesson.Controllers
         {
             return View(await _context.joke.ToListAsync());
         }
-
+        // show search
+        public async Task<IActionResult> showSearchForm()
+        {
+            return View("showSearchForm");
+        }
         // GET: jokes/Details/5
         public async Task<IActionResult> Details(int? id)
         {

@@ -167,3 +167,4 @@ C:\Users\porkh\Desktop\WERK\personal\c-lesson\clesson\clesson\obj\Debug\netcorea
 C:\Users\porkh\Desktop\WERK\personal\c-lesson\clesson\clesson\obj\Debug\netcoreapp3.1\Razor\Views\jokes\Details.cshtml.g.cs
 C:\Users\porkh\Desktop\WERK\personal\c-lesson\clesson\clesson\obj\Debug\netcoreapp3.1\Razor\Views\jokes\Edit.cshtml.g.cs
 C:\Users\porkh\Desktop\WERK\personal\c-lesson\clesson\clesson\obj\Debug\netcoreapp3.1\Razor\Views\jokes\Index.cshtml.g.cs
+C:\Users\porkh\Desktop\WERK\personal\c-lesson\clesson\clesson\obj\Debug\netcoreapp3.1\Razor\Views\jokes\showSearchForm.cshtml.g.cs
