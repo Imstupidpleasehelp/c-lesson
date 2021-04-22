@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using clesson.Data;
 using clesson.Models;
+using Microsoft.AspNetCore.Authorization;
 
 namespace clesson.Controllers
 {
@@ -53,6 +54,8 @@ namespace clesson.Controllers
         }
 
         // GET: jokes/Create
+        // only allow loged in users to see the view 
+        [Authorize]
         public IActionResult Create()
         {
             return View();
@@ -61,6 +64,7 @@ namespace clesson.Controllers
         // POST: jokes/Create
         // To protect from overposting attacks, enable the specific properties you want to bind to, for 
         // more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
+        [Authorize]
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create([Bind("Id,JokeSet,JokePunchLine")] joke joke)
@@ -75,6 +79,7 @@ namespace clesson.Controllers
         }
 
         // GET: jokes/Edit/5
+        [Authorize]
         public async Task<IActionResult> Edit(int? id)
         {
             if (id == null)
