@@ -1,1 +1,1 @@
-A dad joke database written in C#. 
+A Full-Stack dad joke database written in C#. 
