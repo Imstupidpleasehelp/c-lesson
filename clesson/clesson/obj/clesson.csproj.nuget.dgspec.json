@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\porkh\\Desktop\\WERK\\personal\\c-lesson\\clesson\\clesson\\clesson.csproj": {}
+    "C:\\Users\\porkh\\Desktop\\WERK\\Personal\\c-lesson\\clesson\\clesson\\clesson.csproj": {}
   },
   "projects": {
-    "C:\\Users\\porkh\\Desktop\\WERK\\personal\\c-lesson\\clesson\\clesson\\clesson.csproj": {
+    "C:\\Users\\porkh\\Desktop\\WERK\\Personal\\c-lesson\\clesson\\clesson\\clesson.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\porkh\\Desktop\\WERK\\personal\\c-lesson\\clesson\\clesson\\clesson.csproj",
+        "projectUniqueName": "C:\\Users\\porkh\\Desktop\\WERK\\Personal\\c-lesson\\clesson\\clesson\\clesson.csproj",
         "projectName": "clesson",
-        "projectPath": "C:\\Users\\porkh\\Desktop\\WERK\\personal\\c-lesson\\clesson\\clesson\\clesson.csproj",
+        "projectPath": "C:\\Users\\porkh\\Desktop\\WERK\\Personal\\c-lesson\\clesson\\clesson\\clesson.csproj",
         "packagesPath": "C:\\Users\\porkh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\porkh\\Desktop\\WERK\\personal\\c-lesson\\clesson\\clesson\\obj\\",
+        "outputPath": "C:\\Users\\porkh\\Desktop\\WERK\\Personal\\c-lesson\\clesson\\clesson\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\porkh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -21,8 +21,7 @@
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
