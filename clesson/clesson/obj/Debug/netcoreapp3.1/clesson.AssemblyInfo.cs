@@ -11,6 +11,7 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap4")]
 [assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("aspnet-clesson-FBD2DC50-A72B-4F6D-A493-7440F1BA2C39")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("clesson")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
